@@ -1,0 +1,55 @@
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\bin\City Library.dll.config
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\bin\City Library.dll
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\bin\City Library.pdb
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\bin\Antlr3.Runtime.dll
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\bin\EntityFramework.dll
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\bin\EntityFramework.SqlServer.dll
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\bin\Microsoft.Owin.dll
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\bin\Microsoft.Owin.Security.dll
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\bin\Microsoft.Owin.Security.Google.dll
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\bin\Microsoft.Web.Infrastructure.dll
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\bin\Newtonsoft.Json.dll
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\bin\Owin.dll
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\bin\System.Web.Helpers.dll
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\bin\System.Web.Mvc.dll
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\bin\System.Web.Optimization.dll
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\bin\System.Web.Razor.dll
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\bin\System.Web.WebPages.Deployment.dll
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\bin\System.Web.WebPages.dll
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\bin\System.Web.WebPages.Razor.dll
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\bin\WebGrease.dll
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\bin\System.Web.Helpers.xml
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\bin\System.Web.Mvc.xml
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\bin\System.Web.Optimization.xml
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\bin\System.Web.Razor.xml
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\bin\System.Web.WebPages.xml
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\bin\System.Web.WebPages.Deployment.xml
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\bin\System.Web.WebPages.Razor.xml
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\bin\Antlr3.Runtime.pdb
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\bin\Newtonsoft.Json.xml
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\bin\EntityFramework.xml
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\bin\EntityFramework.SqlServer.xml
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\bin\Microsoft.Owin.xml
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\bin\Microsoft.Owin.Security.xml
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\bin\Microsoft.Owin.Security.Google.xml
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\obj\Debug\City Library.dll
+c:\users\jeka\documents\visual studio 2013\Projects\City Library\City Library\obj\Debug\City Library.pdb
+C:\Users\Jeka\documents\visual studio 2013\Projects\City Library\City Library\obj\Debug\City Library.csprojResolveAssemblyReference.cache

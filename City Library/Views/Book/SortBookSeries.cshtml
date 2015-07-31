@@ -1,0 +1,65 @@
+﻿@model IEnumerable<City_Library.Models.Book>
+
+@{
+    ViewBag.Title = "SortBookSeries";
+}
+
+<h2>Просмотр по сериям</h2>
+
+<p>
+    @using (Html.BeginForm("Index", "Book", FormMethod.Get))
+    {
+        <b>Поиск по:</b> @Html.RadioButton("searchBy", "Title", true) <text>Название</text>
+        @Html.RadioButton("searchBy", "Author") <text>Автор</text><br />
+        @Html.TextBox("search")<input type="submit" value="Поиск" />
+    }
+</p>
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.ActionLink(Html.DisplayNameFor(model => model.Author.Name).ToHtmlString(), "SortByAuthor")
+        </th>
+        <th>
+            @Html.ActionLink(Html.DisplayNameFor(model => model.BookSeries.Name).ToHtmlString(), "SortBookSeries")
+        </th>
+        <th>
+            @Html.ActionLink(Html.DisplayNameFor(model => model.Publisher.Name).ToHtmlString(), "SortPublisher")
+        </th>
+        <th>
+            @Html.ActionLink(Html.DisplayNameFor(model => model.Name).ToHtmlString(), "SortTitle")
+        </th>
+        <th>
+            @Html.ActionLink("Описание", "SortDescription")
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Author.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.BookSeries.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Publisher.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Description)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.BookId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.BookId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.BookId })
+        </td>
+    </tr>
+}
+
+</table>
